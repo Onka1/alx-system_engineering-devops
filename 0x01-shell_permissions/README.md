@@ -1,2 +1,1 @@
-ÂÂ#!/bin/bash
-su betty
+learning how to change user
