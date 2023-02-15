@@ -1,2 +1,2 @@
-Â#!/bin/bash
-tr -d cC
+#!/bin/bash
+rev
